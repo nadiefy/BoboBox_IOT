@@ -16,3 +16,9 @@ This project is a smart package delivery notification system using an ESP32 micr
 
  - Upload the Code Connect your ESP32 to your computer. Open the Arduino IDE and select the appropriate board and port. Upload the code to your ESP32.
 
+
+## Authors
+
+- [Nadief](https://github.com/nadiefy)
+- [Rizki](https://github.com/Razeroth)
+- [Amam](https://github.com/aceree14)
